@@ -1,4 +1,4 @@
 # Quiz App (Vue 3)
 
-![App preview](/quiz-preview.png)
+![App preview](./public/quiz-preview.png)
 
